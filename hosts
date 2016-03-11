@@ -1,88 +1,88 @@
-# Version 2016-03-11\n
-# Copyright (c) 1993-2009 Microsoft Corp.\n
-#\n
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.\n
-#\n
-# This file contains the mappings of IP addresses to host names. Each\n
-# entry should be kept on an individual line. The IP address should\n
-# be placed in the first column followed by the corresponding host name.\n
-# The IP address and the host name should be separated by at least one\n
-# space.\n
-#\n
-# Additionally, comments (such as these) may be inserted on individual\n
-# lines or following the machine name denoted by a '#' symbol.\n
-#\n
-# For example:\n
-#\n
-#      102.54.94.97     rhino.acme.com          # source server\n
-#       38.25.63.10     x.acme.com              # x client host\n
-\n
-# localhost name resolution is handled within DNS itself.\n
-#	127.0.0.1       localhost\n
-#	::1             localhost\n
-\n
-127.0.0.1       localhost\n
-\n
-#amazonaws-start\n
-\n
-54.231.66.16	s3.amazonaws.com\n
-\n
-\n
-#amazonaws-end\n
-\n
-52.84.34.164	static.getchute.com\n
-52.84.34.164	store.getchute.com\n
-166.78.45.172	www.getchute.com\n
-\n
-#google-start\n
-\n
-197.80.135.30	www.google.com\n
-197.80.135.30	www.google.com.hk\n
-197.80.135.30	apis.google.com\n
-197.80.135.30	developers.google.com\n
-197.80.135.30	plus.google.com\n
-197.80.135.30	accounts.google.com\n
-197.80.135.30	www.gstatic.com\n
-197.80.135.30	ssl.gstatic.com\n
-197.80.135.30	mail.google.com\n
-197.80.135.30	mail-attachment.googleusercontent.com\n
-197.80.135.30	talkgadget.google.com\n
-197.80.135.30	hangouts.google.com\n
-197.80.135.30	play.google.com\n
-197.80.135.30	lh1.googleusercontent.com\n
-197.80.135.30	lh2.googleusercontent.com\n
-197.80.135.30	lh3.googleusercontent.com\n
-197.80.135.30	lh4.googleusercontent.com\n
-197.80.135.30	lh5.googleusercontent.com\n
-197.80.135.30	ci1.googleusercontent.com\n
-197.80.135.30	ci2.googleusercontent.com\n
-197.80.135.30	ci3.googleusercontent.com\n
-197.80.135.30	ci4.googleusercontent.com\n
-197.80.135.30	ci5.googleusercontent.com\n
-197.80.135.30	ci6.googleusercontent.com\n
-197.80.135.30	1.client-channel.google.com\n
-197.80.135.30	2.client-channel.google.com\n
-197.80.135.30	3.client-channel.google.com\n
-197.80.135.30	4.client-channel.google.com\n
-197.80.135.30	5.client-channel.google.com\n
-197.80.135.30	6.client-channel.google.com\n
-197.80.135.30	7.client-channel.google.com\n
-197.80.135.30	8.client-channel.google.com\n
-197.80.135.30	9.client-channel.google.com\n
-197.80.135.30	10.client-channel.google.com\n
-197.80.135.30	11.client-channel.google.com\n
-197.80.135.30	12.client-channel.google.com\n
-197.80.135.30	13.client-channel.google.com\n
-197.80.135.30	14.client-channel.google.com\n
-197.80.135.30	clients1.google.com\n
-197.80.135.30	clients2.google.com\n
-197.80.135.30	clients3.google.com\n
-197.80.135.30	clients4.google.com\n
-197.80.135.30	clients5.google.com\n
-197.80.135.30	clients6.google.com\n
-197.80.135.30	translate.google.com\n
-197.80.135.30	translate.googleapis.com\n
-197.80.135.30	maps.google.com\n
-197.80.135.30	maps.googleapis.com\n
-\n
-#google-end\n
+# Version 2016-03-11‏
+# Copyright (c) 1993-2009 Microsoft Corp.‏
+#‏
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.‏
+#‏
+# This file contains the mappings of IP addresses to host names. Each‏
+# entry should be kept on an individual line. The IP address should‏
+# be placed in the first column followed by the corresponding host name.‏
+# The IP address and the host name should be separated by at least one‏
+# space.‏
+#‏
+# Additionally, comments (such as these) may be inserted on individual‏
+# lines or following the machine name denoted by a '#' symbol.‏
+#‏
+# For example:‏
+#‏
+#      102.54.94.97     rhino.acme.com          # source server‏
+#       38.25.63.10     x.acme.com              # x client host‏
+‏
+# localhost name resolution is handled within DNS itself.‏
+#	127.0.0.1       localhost‏
+#	::1             localhost‏
+‏
+127.0.0.1       localhost‏
+‏
+#amazonaws-start‏
+‏
+54.231.66.16	s3.amazonaws.com‏
+‏
+‏
+#amazonaws-end‏
+‏
+52.84.34.164	static.getchute.com‏
+52.84.34.164	store.getchute.com‏
+166.78.45.172	www.getchute.com‏
+‏
+#google-start‏
+‏
+197.80.135.30	www.google.com‏
+197.80.135.30	www.google.com.hk‏
+197.80.135.30	apis.google.com‏
+197.80.135.30	developers.google.com‏
+197.80.135.30	plus.google.com‏
+197.80.135.30	accounts.google.com‏
+197.80.135.30	www.gstatic.com‏
+197.80.135.30	ssl.gstatic.com‏
+197.80.135.30	mail.google.com‏
+197.80.135.30	mail-attachment.googleusercontent.com‏
+197.80.135.30	talkgadget.google.com‏
+197.80.135.30	hangouts.google.com‏
+197.80.135.30	play.google.com‏
+197.80.135.30	lh1.googleusercontent.com‏
+197.80.135.30	lh2.googleusercontent.com‏
+197.80.135.30	lh3.googleusercontent.com‏
+197.80.135.30	lh4.googleusercontent.com‏
+197.80.135.30	lh5.googleusercontent.com‏
+197.80.135.30	ci1.googleusercontent.com‏
+197.80.135.30	ci2.googleusercontent.com‏
+197.80.135.30	ci3.googleusercontent.com‏
+197.80.135.30	ci4.googleusercontent.com‏
+197.80.135.30	ci5.googleusercontent.com‏
+197.80.135.30	ci6.googleusercontent.com‏
+197.80.135.30	1.client-channel.google.com‏
+197.80.135.30	2.client-channel.google.com‏
+197.80.135.30	3.client-channel.google.com‏
+197.80.135.30	4.client-channel.google.com‏
+197.80.135.30	5.client-channel.google.com‏
+197.80.135.30	6.client-channel.google.com‏
+197.80.135.30	7.client-channel.google.com‏
+197.80.135.30	8.client-channel.google.com‏
+197.80.135.30	9.client-channel.google.com‏
+197.80.135.30	10.client-channel.google.com‏
+197.80.135.30	11.client-channel.google.com‏
+197.80.135.30	12.client-channel.google.com‏
+197.80.135.30	13.client-channel.google.com‏
+197.80.135.30	14.client-channel.google.com‏
+197.80.135.30	clients1.google.com‏
+197.80.135.30	clients2.google.com‏
+197.80.135.30	clients3.google.com‏
+197.80.135.30	clients4.google.com‏
+197.80.135.30	clients5.google.com‏
+197.80.135.30	clients6.google.com‏
+197.80.135.30	translate.google.com‏
+197.80.135.30	translate.googleapis.com‏
+197.80.135.30	maps.google.com‏
+197.80.135.30	maps.googleapis.com‏
+‏
+#google-end‏
