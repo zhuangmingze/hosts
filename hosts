@@ -23,6 +23,8 @@
 #	::1             localhost
 127.0.0.1       localhost
 
+# Modified hosts start
+
 # Amazon AWS Start
 27.0.1.125	ap-northeast-1.console.aws.amazon.com
 54.240.226.19	ap-southeast-1.console.aws.amazon.com
@@ -3633,5 +3635,6 @@
 # W3schools Start
 68.232.44.251	w3schools.com
 68.232.44.251	www.w3schools.com
+# W3schools End
 
-#google-end
+# Modified hosts end
