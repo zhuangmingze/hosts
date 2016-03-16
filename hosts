@@ -1,4 +1,4 @@
-# Version 2016-03-15
+# Version 2016-03-17
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
@@ -507,6 +507,7 @@
 64.233.162.85	uploads.stage.gdata.youtube.com
 64.233.162.85	answers.google.com
 64.233.162.85	wenda.google.com.hk
+64.233.162.84	security.googleblog.com
 64.233.162.85	blogsearch.google.com
 64.233.162.85	blogsearch.google.com.hk
 64.233.162.85	blogsearch.google.com.tw
@@ -607,6 +608,7 @@
 64.233.162.85	cloudssh.developers.google.com
 64.233.162.85	console.developers.google.com
 64.233.162.85	source.developers.google.com
+64.233.162.85	design.google.com
 64.233.162.85	directory.google.com
 64.233.162.85	dir.google.com
 64.233.162.85	events.google.com
