@@ -507,7 +507,7 @@
 220.255.2.153	apps.google.com
 220.255.2.153	googlemashups.com
 220.255.2.153	www.googlemashups.com
-64.233.162.87	appengine.google.com
+220.255.2.153	appengine.google.com
 220.255.2.153	uploads.stage.gdata.youtube.com
 220.255.2.153	answers.google.com
 220.255.2.153	wenda.google.com.hk
@@ -592,8 +592,10 @@
 # 220.255.2.153	codereview.chromium.org
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
+220.255.2.153	chrometophone.appspot.com
 220.255.2.153	download-chromium.appspot.com
 220.255.2.153	jmoore-dot-android-experiments.appspot.com
+220.255.2.153	lfe-alpo-gm.appspot.com
 220.255.2.153	m-dot-betaspike.appspot.com
 220.255.2.153	accounts.google.com.gi
 220.255.2.153	accounts.google.co.nz
@@ -933,6 +935,7 @@
 220.255.2.153	content.googleapis.com
 220.255.2.153	maps.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
+220.255.2.153	commondatastorage.googleapis.com
 220.255.2.153	play.googleapis.com
 220.255.2.153	plus.googleapis.com
 220.255.2.153	redirector-bigcache.googleapis.com
@@ -946,9 +949,8 @@
 220.255.2.153	mts1.googleapis.com
 220.255.2.153	mts2.googleapis.com
 220.255.2.153	mts3.googleapis.com
-220.255.2.153 ct.googleapis.com
+220.255.2.153	ct.googleapis.com
 # 216.58.221.48	storage.googleapis.com
-# 216.58.221.48	commondatastorage.googleapis.com
 # 216.58.221.48	bucket.commondatastorage.googleapis.com
 # 216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
 # 216.58.221.48	c.commondatastorage.googleapis.com
@@ -964,6 +966,8 @@
 220.255.2.153	base3.googlehosted.com
 220.255.2.153	base4.googlehosted.com
 220.255.2.153	base5.googlehosted.com
+216.239.38.121	ghs.googlehosted.com
+72.14.249.180	ghs-svc-https-c1196.ghs-ssl.googlehosted.com
 220.255.2.153	s0.2mdn.net
 220.255.2.153	s1.2mdn.net
 220.255.2.153	service.urchin.com
@@ -1169,6 +1173,7 @@
 220.255.2.153	googlegroups.l.googleusercontent.com
 220.255.2.153	orkut-opensocial.l.googleusercontent.com
 220.255.2.153	photos-ugc.l.googleusercontent.com
+220.255.2.153	static.googleusercontent.com
 220.255.2.153	storage.l.googleusercontent.com
 220.255.2.153	storage-ugc.l.googleusercontent.com
 220.255.2.153	a-fc-opensocial.googleusercontent.com
