@@ -1,4 +1,4 @@
-# Version 2016-04-28
+# Version 2016-05-21
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
@@ -886,10 +886,24 @@
 220.255.2.153	gm2.ggpht.com
 220.255.2.153	gm3.ggpht.com
 220.255.2.153	gm4.ggpht.com
+220.255.2.153	lh0.ggpht.com
+220.255.2.153	lh1.ggpht.com
+220.255.2.153	lh2.ggpht.com
+220.255.2.153	lh3.ggpht.com
+220.255.2.153	lh4.ggpht.com
+220.255.2.153	lh5.ggpht.com
+220.255.2.153	lh6.ggpht.com
 220.255.2.153	nt0.ggpht.com
 220.255.2.153	nt1.ggpht.com
 220.255.2.153	nt2.ggpht.com
 220.255.2.153	nt3.ggpht.com
+220.255.2.153	yt0.ggpht.com
+220.255.2.153	yt1.ggpht.com
+220.255.2.153	yt2.ggpht.com
+220.255.2.153	yt3.ggpht.com
+220.255.2.153	yt4.ggpht.com
+220.255.2.153	yt5.ggpht.com
+220.255.2.153	yt6.ggpht.com
 220.255.2.153	accounts.gstatic.com
 220.255.2.153	maps.gstatic.com
 220.255.2.153	ssl.gstatic.com
@@ -1162,6 +1176,7 @@
 220.255.2.153	source.android.com
 220.255.2.153	market.android.com
 220.255.2.153	play.google.com
+220.255.2.153	payments.google.com
 220.255.2.153	android.clients.google.com
 
 # Googleusercontent Start
@@ -2907,6 +2922,8 @@
 64.233.188.121	chromeexperiments.com
 64.233.188.121	www.chromeexperiments.com
 64.233.188.121	vr.chromeexperiments.com
+64.233.188.121	globe.chromeexperiments.com
+64.233.188.121	workshop.chromeexperiments.com
 64.233.188.121	www.gwtproject.org
 64.233.188.121	www.html5rocks.com
 64.233.188.121	slides.html5rocks.com
@@ -3523,7 +3540,7 @@
 
 # Wikipedia Start
 198.35.26.96	zh.wikipedia.org
-198.35.26.108	zh.m.wikipedia.org
+198.35.26.97	zh.m.wikipedia.org
 # Wikipedia End
 
 # WordPress Start
