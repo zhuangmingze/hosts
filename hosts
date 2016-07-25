@@ -85,68 +85,118 @@
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 
+#Dropbox Start
+218.254.1.13	db.tt
+218.254.1.13	dropbox.com
+218.254.1.13	m.dropbox.com
+218.254.1.13	www.v.dropbox.com
+162.125.66.1	www.dropbox.com
+108.160.172.193	d.dropbox.com
+108.160.172.193	d.v.dropbox.com
+108.160.172.193	api-d.dropbox.com
+108.160.172.237	api.dropboxapi.com
+108.160.172.237	api.dropbox.com
+108.160.172.237	api.v.dropbox.com
+108.160.172.237	api-notify.dropbox.com
+108.160.172.233	www.dropboxstatic.com
+104.16.100.29	cfl.dropboxstatic.com
+108.160.172.201	dbxlocal.dropboxstatic.com
+199.47.217.36	api-content.dropbox.com
+199.47.217.36	api-content-photos.dropbox.com
+108.160.172.207	photos.dropbox.com
+162.125.34.129	bolt.dropbox.com
+162.125.17.129	photos-thumb.dropbox.com
+162.125.17.129	photos-thumb.x.dropbox.com
+199.47.217.97	block.dropbox.com
+199.47.217.97	block.v.dropbox.com
+54.230.214.100	cf.dropboxstatic.com
+54.192.108.33	client-cf.dropbox.com
+45.58.69.38	dl.dropbox.com
+219.76.4.4	dl-web.dropbox.com
+45.58.69.37	dl.dropboxusercontent.com
+162.125.18.2	photos-1.dropbox.com
+162.125.18.2	photos-2.dropbox.com
+162.125.18.2	photos-2.dropbox.com
+162.125.18.2	photos-3.dropbox.com
+162.125.18.2	photos-4.dropbox.com
+162.125.18.2	photos-5.dropbox.com
+162.125.18.2	photos-6.dropbox.com
+54.192.213.118	status.dropbox.com
+54.192.213.118	marketing.dropbox.com
+54.192.213.118	blogs.dropbox.com
+54.192.213.118	forums.dropbox.com
+54.192.213.118	snapengage.dropbox.com
+162.125.32.129	notify.dropbox.com
+108.160.172.236	client-lb.dropbox.com
+108.160.172.236	client-web.dropbox.com
+108.160.172.236	client.dropbox.com
+108.160.172.236	client.v.dropbox.com
+219.76.4.4	dl-debug.dropbox.com
+219.76.4.4	log.getdropbox.com
+#Dropbox End
+
 # Facebook start
-173.252.81.7	fb.me
-173.252.81.7	facebook.com
-173.252.81.7	www.facebook.com
-173.252.81.7	m.facebook.com
-173.252.81.7	mqtt.facebook.com
-173.252.81.7	s-static.ak.facebook.com
-173.252.81.7	profile.ak.facebook.com
-173.252.81.7	static.ak.facebook.com
-173.252.81.7	b.static.ak.facebook.com
-173.252.81.7	graph.facebook.com
-173.252.81.7	ssl.facebook.com
-173.252.81.7	api.facebook.com
-173.252.81.7	secure-profile.facebook.com
-173.252.81.7	secure.facebook.com
-173.252.81.7	zh-cn.facebook.com
-173.252.81.7	login.facebook.com
+31.13.95.17	fb.me
+31.13.95.17	facebook.com
+31.13.95.17	www.facebook.com
+31.13.95.17	m.facebook.com
+31.13.95.17	mqtt.facebook.com
+31.13.95.17	s-static.ak.facebook.com
+31.13.95.17	profile.ak.facebook.com
+31.13.95.17	static.ak.facebook.com
+31.13.95.17	b.static.ak.facebook.com
+31.13.95.17	graph.facebook.com
+31.13.95.17	ssl.facebook.com
+31.13.95.17	api.facebook.com
+31.13.95.17	secure-profile.facebook.com
+31.13.95.17	secure.facebook.com
+31.13.95.17	zh-cn.facebook.com
+31.13.95.17	login.facebook.com
 #50.63.202.88	message-facebook.com
-173.252.81.7	attachments.facebook.com
-173.252.81.7	touch.facebook.com
-173.252.81.7	apps.facebook.com
-173.252.81.7	upload.facebook.com
-173.252.81.7	developers.facebook.com
-173.252.81.7	act.channel.facebook.com
-173.252.81.7	0-act.channel.facebook.com
-173.252.81.7	1-act.channel.facebook.com
-173.252.81.7	2-act.channel.facebook.com
-173.252.81.7	3-act.channel.facebook.com
-173.252.81.7	4-act.channel.facebook.com
-173.252.81.7	5-act.channel.facebook.com
-173.252.81.7	6-act.channel.facebook.com
-173.252.81.7	inyour-slb-01-05-ash3.facebook.com
-173.252.81.7	origincache-starfacebook-ai-01-05-ash3.facebook.com
-173.252.81.7	beta-chat-01-05-ash3.facebook.com
-173.252.81.7	channel-ecmp-05-ash3.facebook.com
-173.252.81.7	channel-staging-ecmp-05-ash3.facebook.com
-173.252.81.7	channel-testing-ecmp-05-ash3.facebook.com
-173.252.81.7	0-edge-chat.facebook.com
-173.252.81.7	1-edge-chat.facebook.com
-173.252.81.7	2-edge-chat.facebook.com
-173.252.81.7	3-edge-chat.facebook.com
-173.252.81.7	4-edge-chat.facebook.com
-173.252.81.7	5-edge-chat.facebook.com
-173.252.81.7	6-edge-chat.facebook.com
-173.252.81.7	api-read.facebook.com
-173.252.81.7	bigzipfiles.facebook.com
-173.252.81.7	check4.facebook.com
-173.252.81.7	check6.facebook.com
-173.252.81.7	code.facebook.com
+31.13.95.17	attachments.facebook.com
+31.13.95.17	touch.facebook.com
+31.13.95.17	apps.facebook.com
+31.13.95.17	upload.facebook.com
+31.13.95.17	developers.facebook.com
+31.13.95.17	act.channel.facebook.com
+31.13.95.17	0-act.channel.facebook.com
+31.13.95.17	1-act.channel.facebook.com
+31.13.95.17	2-act.channel.facebook.com
+31.13.95.17	3-act.channel.facebook.com
+31.13.95.17	4-act.channel.facebook.com
+31.13.95.17	5-act.channel.facebook.com
+31.13.95.17	6-act.channel.facebook.com
+31.13.95.17	inyour-slb-01-05-ash3.facebook.com
+31.13.95.17	origincache-starfacebook-ai-01-05-ash3.facebook.com
+31.13.95.17	beta-chat-01-05-ash3.facebook.com
+31.13.95.17	channel-ecmp-05-ash3.facebook.com
+31.13.95.17	channel-staging-ecmp-05-ash3.facebook.com
+31.13.95.17	channel-testing-ecmp-05-ash3.facebook.com
+31.13.95.17	0-edge-chat.facebook.com
+31.13.95.17	1-edge-chat.facebook.com
+31.13.95.17	2-edge-chat.facebook.com
+31.13.95.17	3-edge-chat.facebook.com
+31.13.95.17	4-edge-chat.facebook.com
+31.13.95.17	5-edge-chat.facebook.com
+31.13.95.17	6-edge-chat.facebook.com
+31.13.95.17	api-read.facebook.com
+31.13.95.17	bigzipfiles.facebook.com
+31.13.95.17	check4.facebook.com
+31.13.95.17	check6.facebook.com
+31.13.95.17	code.facebook.com
 31.13.95.14	connect.facebook.com
-173.252.81.7	edge-chat.facebook.com
-173.252.81.7	pixel.facebook.com
-173.252.81.7	star.c10r.facebook.com
-173.252.81.7	star.facebook.com
-173.252.81.7	zh-tw.facebook.com
-173.252.81.7	b-api.facebook.com
-173.252.81.7	b-graph.facebook.com
-173.252.81.7	orcart.facebook.com
-173.252.81.7	s-static.facebook.com
-173.252.81.7	vupload.facebook.com
-173.252.81.7	vupload2.vvv.facebook.com
-173.252.81.7	d.facebook.com
+31.13.95.17	edge-chat.facebook.com
+31.13.95.17	pixel.facebook.com
+31.13.95.17	star.c10r.facebook.com
+31.13.95.17	star.facebook.com
+31.13.95.17	zh-tw.facebook.com
+31.13.95.17	b-api.facebook.com
+31.13.95.17	b-graph.facebook.com
+31.13.95.17	orcart.facebook.com
+31.13.95.17	s-static.facebook.com
+31.13.95.17	vupload.facebook.com
+31.13.95.17	vupload2.vvv.facebook.com
+31.13.95.17	d.facebook.com
 23.63.99.242	fbexternal-a.akamaihd.net
 23.67.255.208	fbcdn-creative-a.akamaihd.net
 23.63.99.186	fbcdn-video-a-a.akamaihd.net
@@ -179,7 +229,7 @@
 72.246.188.19	fbcdn-photos-e-a.akamaihd.net
 23.205.168.10	fbcdn-sphotos-a.akamaihd.net
 23.63.99.209	fbstatic-a.akamaihd.net
-173.252.81.7	fbcdn.net
+31.13.95.17	fbcdn.net
 31.13.95.14	video.xx.fbcdn.net
 183.111.23.18	scontent.xx.fbcdn.net
 183.111.23.18	scontent-a.xx.fbcdn.net
@@ -215,9 +265,9 @@
 183.111.23.18	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
-173.252.81.7	static.thefacebook.com
+31.13.95.17	static.thefacebook.com
 # 192.168.52.23	ldap.thefacebook.com
-173.252.81.7	attachment.fbsbx.com
+31.13.95.17	attachment.fbsbx.com
 104.78.23.174	connect.facebook.net
 192.0.78.12	live.fb.com
 192.0.78.12	work.fb.com
@@ -333,6 +383,7 @@
 104.244.42.136	cdn.syndication.twitter.com
 104.244.42.2	cdn.api.twitter.com
 104.244.42.1	preview.cdn.twitter.com
+104.244.42.3	apps.twitter.com
 # Twitter End
 
 # Gmail web Start
@@ -536,6 +587,8 @@
 220.255.2.153	accounts.blogger.com
 220.255.2.153	www.blogger.com
 220.255.2.153	blogger.com
+220.255.2.153	www.googleblog.com
+220.255.2.153	googleblog.com
 220.255.2.153	blogger.google.com
 220.255.2.153	www2.blogger.com
 220.255.2.153	www.blogblog.com
@@ -564,9 +617,18 @@
 220.255.2.153	4.bp.blogspot.com
 220.255.2.153	5.bp.blogspot.com
 220.255.2.153	6.bp.blogspot.com
+220.255.2.153	googleblog.blogspot.com
+220.255.2.153	googleforstudents.blogspot.com
+220.255.2.153	students.googleblog.com
+220.255.2.153	chrome.blogspot.com
+220.255.2.153	google-latlong.blogspot.com
+220.255.2.153	insidesearch.blogspot.com
+220.255.2.153	googleadsdeveloper.blogspot.com
 220.255.2.153	officialandroid.blogspot.com
 220.255.2.153	android-developers.blogspot.com
 220.255.2.153	android-developers.blogspot.hk
+220.255.2.135	program-think.blogspot.com
+220.255.2.153	developers.googleblog.com
 220.255.2.153	books.google.com
 220.255.2.153	books.google.com.hk
 220.255.2.153	bks0.books.google.com
@@ -646,6 +708,7 @@
 220.255.2.153	cloudssh.developers.google.com
 220.255.2.153	console.developers.google.com
 220.255.2.153	source.developers.google.com
+220.255.2.153	cla.developers.google.com
 220.255.2.153	design.google.com
 220.255.2.153	directory.google.com
 220.255.2.153	dir.google.com
@@ -673,6 +736,7 @@
 220.255.2.153	docs7.google.com
 220.255.2.153	docs8.google.com
 220.255.2.153	docs9.google.com
+220.255.2.153	firebase.google.com
 220.255.2.153	material.google.com
 220.255.2.153	writely.google.com
 220.255.2.153	upload.docs.google.com
@@ -979,7 +1043,7 @@
 220.255.2.153	content.googleapis.com
 220.255.2.153	maps.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
-216.58.221.112	commondatastorage.googleapis.com
+216.58.221.144	commondatastorage.googleapis.com
 220.255.2.153	play.googleapis.com
 220.255.2.153	plus.googleapis.com
 220.255.2.153	redirector-bigcache.googleapis.com
@@ -994,13 +1058,17 @@
 220.255.2.153	mts2.googleapis.com
 220.255.2.153	mts3.googleapis.com
 220.255.2.153	ct.googleapis.com
-# 216.58.221.48	storage.googleapis.com
-# 216.58.221.48	bucket.commondatastorage.googleapis.com
-# 216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
-# 216.58.221.48	c.commondatastorage.googleapis.com
-# 216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
-# 216.58.221.48	gweb-letour.storage.googleapis.com
-# Googleaps End
+220.255.2.153	commondatastorage.googleapis.com
+220.255.2.153	securetoken.googleapis.com
+220.255.2.153	firebasestorage.googleapis.com
+64.233.188.121	code.getmdl.io
+#216.58.221.48	storage.googleapis.com
+#216.58.221.48	bucket.commondatastorage.googleapis.com
+#216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
+#216.58.221.48	c.commondatastorage.googleapis.com
+#216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
+#216.58.221.48	gweb-letour.storage.googleapis.com
+#Googleaps End
 
 220.255.2.153	www.googlehosted.com
 220.255.2.153	base.googlehosted.com
@@ -1030,6 +1098,7 @@
 220.255.2.153	tip.golang.org
 220.255.2.153	tour.golang.org
 220.255.2.153	goo.gl
+220.255.2.153	pay.app.goo.gl
 220.255.2.153	g.co
 220.255.2.153	www.google.org
 220.255.2.153	blog.google.org
@@ -1224,6 +1293,15 @@
 220.255.2.153	images-focus-opensocial.googleusercontent.com
 220.255.2.153	www-blogger-opensocial.googleusercontent.com
 220.255.2.153	books.googleusercontent.com
+220.255.2.153	ap1.googleusercontent.com
+220.255.2.153	ap2.googleusercontent.com
+220.255.2.153	ap3.googleusercontent.com
+220.255.2.153	ap4.googleusercontent.com
+220.255.2.153	ap5.googleusercontent.com
+220.255.2.153	ap6.googleusercontent.com
+220.255.2.153	ap7.googleusercontent.com
+220.255.2.153	ap8.googleusercontent.com
+220.255.2.153	ap9.googleusercontent.com
 220.255.2.153	ci0.googleusercontent.com
 220.255.2.153	ci1.googleusercontent.com
 220.255.2.153	ci2.googleusercontent.com
@@ -2463,6 +2541,7 @@
 220.255.2.153	chromoting-oauth.talkgadget.google.com
 220.255.2.153	chromoting-host.talkgadget.google.com
 220.255.2.153	chromoting-client.talkgadget.google.com
+220.255.2.153	remoting-pa.googleapis.com
 220.255.2.153	contacts.google.com
 220.255.2.153	youtube.com
 220.255.2.153	www.youtube.com
@@ -2942,6 +3021,7 @@
 64.233.188.121	ghs46.google.com
 64.233.188.121	ghs.l.google.com
 64.233.188.121	ghs46.l.google.com
+64.233.188.121	www.nianticlabs.com
 64.233.188.121	gsamplemaps.googlepages.com
 64.233.188.121	javascript-blocker.toggleable.com
 64.233.188.121	goto.ext.google.com
@@ -2983,6 +3063,11 @@
 # Google:A-GPS Start
 64.233.171.192	supl.google.com
 # Google:A-GPS End
+
+# Google:Made the code for girls Start
+216.239.38.21	madewithcode.com
+216.239.38.21	www.madewithcode.com
+# Google:Made the code for girls End
 
 # Google CN Start
 # 203.208.41.144	0.gvt0.cn
@@ -3496,10 +3581,11 @@
 # MEGA End
 
 # OneDrive Start
-65.54.187.24	account.live.com
-23.44.152.70	auth.gfx.ms
+65.55.163.79	account.live.com
+#204.79.197.217	mail.live.com
+23.59.136.70	auth.gfx.ms
 131.253.61.66	login.live.com
-134.170.108.154	onedrive.live.com
+204.79.197.217	onedrive.live.com
 23.212.129.202	p.sfx.ms
 134.170.30.15	people.live.com
 134.170.30.15	profile.live.com
@@ -3697,7 +3783,7 @@
 # Travis CI fastly CDN End
 
 # Github start
-192.30.252.141	gist.github.com
+192.30.253.112	gist.github.com
 # Github end
 
 #TensorFlow start
@@ -3705,8 +3791,8 @@
 #TensorFlow end
 
 # W3schools Start
-#68.232.44.251	w3schools.com
-#68.232.44.251	www.w3schools.com
+68.232.44.251	w3schools.com
+68.232.44.251	www.w3schools.com
 # W3schools End
 
 # Medium start
@@ -3756,5 +3842,14 @@
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
 # Smartdnsproxy end
+
+# apkpure Start
+108.163.178.42	apkpure.com 
+108.163.178.42	m.apkpure.com
+108.163.178.42	a.apkpure.com
+108.163.178.42	static.apkpure.com
+108.163.178.42	translate.apkpure.com
+46.17.101.80	download.apkpure.com
+# apkpure End
 
 # Modified hosts end
