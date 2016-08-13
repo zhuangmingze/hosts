@@ -85,6 +85,16 @@
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 
+# Disqus Start
+23.235.33.134	disqus.com
+23.235.33.134	www.disqus.com
+23.235.33.134	blog.disqus.com
+50.18.249.249	help.disqus.com
+23.235.33.134	content.disqus.com
+23.235.37.134	referrer.disqus.com
+23.235.37.134	apkpure.disqus.com
+# Disqus End
+
 #Dropbox Start
 218.254.1.13	db.tt
 218.254.1.13	dropbox.com
@@ -231,17 +241,17 @@
 23.63.99.209	fbstatic-a.akamaihd.net
 31.13.95.17	fbcdn.net
 31.13.95.14	video.xx.fbcdn.net
-183.111.23.18	scontent.xx.fbcdn.net
-183.111.23.18	scontent-a.xx.fbcdn.net
-183.111.23.18	scontent-b.xx.fbcdn.net
-183.111.23.18	scontent-c.xx.fbcdn.net
-183.111.23.18	scontent-d.xx.fbcdn.net
-183.111.23.18	scontent-e.xx.fbcdn.net
-183.111.23.18	scontent-mxp.xx.fbcdn.net
-183.111.23.18	scontent-a-lax.xx.fbcdn.net
-183.111.23.18	scontent-a-sin.xx.fbcdn.net
-183.111.23.18	scontent-b-lax.xx.fbcdn.net
-183.111.23.18	scontent-b-sin.xx.fbcdn.net
+31.13.66.9	scontent.xx.fbcdn.net
+31.13.66.9	scontent-a.xx.fbcdn.net
+31.13.66.9	scontent-b.xx.fbcdn.net
+31.13.66.9	scontent-c.xx.fbcdn.net
+31.13.66.9	scontent-d.xx.fbcdn.net
+31.13.66.9	scontent-e.xx.fbcdn.net
+31.13.66.9	scontent-mxp.xx.fbcdn.net
+31.13.66.9	scontent-a-lax.xx.fbcdn.net
+31.13.66.9	scontent-a-sin.xx.fbcdn.net
+31.13.66.9	scontent-b-lax.xx.fbcdn.net
+31.13.66.9	scontent-b-sin.xx.fbcdn.net
 184.28.188.240	vthumb.ak.fbcdn.net
 184.28.188.152	photos-a.ak.fbcdn.net
 184.28.188.154	photos-b.ak.fbcdn.net
@@ -256,13 +266,13 @@
 184.28.188.153	b.static.ak.fbcdn.net
 184.28.188.153	static.ak.fbcdn.net
 184.28.188.153	origincache-ai-01-05-ash3.fbcdn.net
-183.111.23.18	profile.ak.fbcdn.net
-183.111.23.18	vpn.tfbnw.net
-183.111.23.18	ent-a.xx.fbcdn.net
-183.111.23.18	ent-b.xx.fbcdn.net
-183.111.23.18	ent-c.xx.fbcdn.net
-183.111.23.18	ent-d.xx.fbcdn.net
-183.111.23.18	ent-e.xx.fbcdn.net
+31.13.66.9	profile.ak.fbcdn.net
+31.13.66.9	vpn.tfbnw.net
+31.13.66.9	ent-a.xx.fbcdn.net
+31.13.66.9	ent-b.xx.fbcdn.net
+31.13.66.9	ent-c.xx.fbcdn.net
+31.13.66.9	ent-d.xx.fbcdn.net
+31.13.66.9	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 31.13.95.17	static.thefacebook.com
@@ -286,39 +296,39 @@
 # FlipBoard End
 
 # Twitter Start
-104.244.42.1	twitter.com
-104.244.42.1	www.twitter.com
-104.244.42.197	t.co
-104.244.42.2	api.twitter.com
-104.244.42.6	mobile.twitter.com
-104.244.42.7	support.twitter.com
-104.244.42.11	upload.twitter.com
-104.244.42.132	tweetdeck.twitter.com
-104.244.42.136	syndication.twitter.com
-104.244.42.136	syndication-o.twitter.com
-104.244.42.3	platform.twitter.com
-104.244.42.3	about.twitter.com
-104.244.42.3	blog.twitter.com
-104.244.42.3	p.twitter.com
-104.244.42.3	betastream.twitter.com
-104.244.42.3	dev.twitter.com
-104.244.42.3	pic.twitter.com
-104.244.42.3	search.twitter.com
-104.244.42.3	status.twitter.com
-104.244.42.3	assets0.twitter.com
-104.244.42.3	assets1.twitter.com
-104.244.42.3	assets2.twitter.com
-104.244.42.3	assets3.twitter.com
-104.244.42.3	static.twitter.com
-104.244.42.3	help.twitter.com
-104.244.42.3	ton.twitter.com
-104.244.42.3	s.twitter.com
-104.244.42.3	analytics.twitter.com
-104.244.42.3	urls-real.api.twitter.com
-104.244.42.3	userstream.twitter.com
-104.244.42.3	sitestream.twitter.com
-104.244.42.3	stream.twitter.com
-104.244.42.3	tdweb.twitter.com
+185.45.5.45	twitter.com
+185.45.5.45	www.twitter.com
+104.244.42.5	t.co
+185.45.5.45	api.twitter.com
+185.45.5.45	mobile.twitter.com
+185.45.5.45	support.twitter.com
+185.45.5.45	upload.twitter.com
+185.45.5.45	tweetdeck.twitter.com
+185.45.5.45	syndication.twitter.com
+185.45.5.45	syndication-o.twitter.com
+185.45.5.45	platform.twitter.com
+185.45.5.45	about.twitter.com
+185.45.5.45	blog.twitter.com
+185.45.5.45	p.twitter.com
+185.45.5.45	betastream.twitter.com
+185.45.5.45	dev.twitter.com
+185.45.5.45	pic.twitter.com
+185.45.5.45	search.twitter.com
+185.45.5.45	status.twitter.com
+185.45.5.45	assets0.twitter.com
+185.45.5.45	assets1.twitter.com
+185.45.5.45	assets2.twitter.com
+185.45.5.45	assets3.twitter.com
+185.45.5.45	static.twitter.com
+185.45.5.45	help.twitter.com
+185.45.5.45	ton.twitter.com
+185.45.5.45	s.twitter.com
+185.45.5.45	analytics.twitter.com
+185.45.5.45	urls-real.api.twitter.com
+185.45.5.45	userstream.twitter.com
+185.45.5.45	sitestream.twitter.com
+185.45.5.45	stream.twitter.com
+185.45.5.45	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -348,42 +358,42 @@
 209.17.68.209	oi54.tinypic.com
 209.17.68.209	oi55.tinypic.com
 209.17.68.209	oi56.tinypic.com
-104.244.43.199	a0.twimg.com
-104.244.43.199	a1.twimg.com
-104.244.43.199	video.twimg.com
-104.244.43.199	abs.twimg.com
-104.244.43.199	g.twimg.com
-104.244.43.199	o.twimg.com
-104.244.43.199	p.twimg.com
-104.244.43.199	r.twimg.com
-104.244.43.199	ma.twimg.com
-104.244.43.199	pbs.twimg.com
-104.244.43.199	si0.twimg.com
-104.244.43.199	si1.twimg.com
-104.244.43.199	si2.twimg.com
-104.244.43.199	si3.twimg.com
-104.244.43.199	si4.twimg.com
-104.244.43.199	si5.twimg.com
-104.244.43.199	ton.twimg.com
-104.244.43.199	syndication.twimg.com
-104.244.43.199	syndication-o.twimg.com
-104.244.43.199	image-proxy-origin.twimg.com
-104.244.43.199	si0.twimg.co
-104.244.43.199	si1.twimg.co
-104.244.43.199	si2.twimg.co
-104.244.43.199	si3.twimg.co
-104.244.43.199	si4.twimg.co
-104.244.43.199	si5.twimg.co
+199.96.57.3	a0.twimg.com
+199.96.57.3	a1.twimg.com
+199.96.57.3	video.twimg.com
+199.96.57.3	abs.twimg.com
+199.96.57.3	g.twimg.com
+199.96.57.3	o.twimg.com
+199.96.57.3	p.twimg.com
+199.96.57.3	r.twimg.com
+199.96.57.3	ma.twimg.com
+199.96.57.3	pbs.twimg.com
+199.96.57.3	si0.twimg.com
+199.96.57.3	si1.twimg.com
+199.96.57.3	si2.twimg.com
+199.96.57.3	si3.twimg.com
+199.96.57.3	si4.twimg.com
+199.96.57.3	si5.twimg.com
+199.96.57.3	ton.twimg.com
+199.96.57.3	syndication.twimg.com
+199.96.57.3	syndication-o.twimg.com
+199.96.57.3	image-proxy-origin.twimg.com
+199.96.57.3	si0.twimg.co
+199.96.57.3	si1.twimg.co
+199.96.57.3	si2.twimg.co
+199.96.57.3	si3.twimg.co
+199.96.57.3	si4.twimg.co
+199.96.57.3	si5.twimg.co
 104.244.42.132	tweetdeck.com
 104.244.42.132	api.tweetdeck.com
 104.244.42.132	web.tweetdeck.com
 104.244.42.132	www.tweetdeck.com
 104.244.42.132	downloads.tweetdeck.com
-104.244.42.136	cdn.syndication.twimg.com
-104.244.42.136	cdn.syndication.twitter.com
-104.244.42.2	cdn.api.twitter.com
-104.244.42.1	preview.cdn.twitter.com
-104.244.42.3	apps.twitter.com
+185.45.5.45	cdn.syndication.twimg.com
+185.45.5.45	cdn.syndication.twitter.com
+185.45.5.45	cdn.api.twitter.com
+185.45.5.45	preview.cdn.twitter.com
+185.45.5.45	apps.twitter.com
 # Twitter End
 
 # Gmail web Start
@@ -429,10 +439,12 @@
 220.255.2.153	encrypted-tbn2.google.com
 220.255.2.153	encrypted-tbn3.google.com
 220.255.2.153	fi.google.com
+220.255.2.153	fit.google.com
 220.255.2.153	fonts.google.com
 220.255.2.153	goto.google.com
 220.255.2.153	gxc.google.com
 220.255.2.153	history.google.com
+220.255.2.153	myactivity.google.com
 220.255.2.153	investor.google.com
 220.255.2.153	jmt0.google.com
 220.255.2.153	keep.google.com
@@ -497,6 +509,7 @@
 220.255.2.153	27.client-channel.google.com
 220.255.2.153	28.client-channel.google.com
 220.255.2.153	29.client-channel.google.com
+220.255.2.153	cello.client-channel.google.com
 220.255.2.153	google.com.hk
 220.255.2.153	www.google.com.hk
 220.255.2.153	accounts.google.com.hk
@@ -608,6 +621,7 @@
 220.255.2.153	img.blogblog.com
 220.255.2.153	img1.blogblog.com
 220.255.2.153	img2.blogblog.com
+220.255.2.153	resources.blogblog.com
 220.255.2.153	www.textcube.com
 220.255.2.153	www.blogspot.com
 220.255.2.153	blogspot.com
@@ -627,7 +641,7 @@
 220.255.2.153	officialandroid.blogspot.com
 220.255.2.153	android-developers.blogspot.com
 220.255.2.153	android-developers.blogspot.hk
-220.255.2.135	program-think.blogspot.com
+220.255.2.153	program-think.blogspot.com
 220.255.2.153	developers.googleblog.com
 220.255.2.153	books.google.com
 220.255.2.153	books.google.com.hk
@@ -963,6 +977,13 @@
 220.255.2.153	registry.google
 220.255.2.153	servicemanagement.clients6.google.com
 220.255.2.153	cloudconsole-pa.clients6.google.com
+220.255.2.153	360suite.google.com
+220.255.2.153	optimize.google.com
+216.58.203.85	attribution.google.com
+220.255.2.153	audiencecenter.google.com
+220.255.2.153	datastudio.google.com
+220.255.2.153	studykit.google.com
+220.255.2.153	business.google.com
 
 # gstatic Start
 220.255.2.153	geo0.ggpht.com
@@ -1041,6 +1062,8 @@
 220.255.2.153	bigcache.googleapis.com
 220.255.2.153	chart.googleapis.com
 220.255.2.153	content.googleapis.com
+220.255.2.153	khms0.googleapis.com
+220.255.2.153	khms1.googleapis.com
 220.255.2.153	maps.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
 216.58.221.144	commondatastorage.googleapis.com
@@ -1068,7 +1091,7 @@
 #216.58.221.48	c.commondatastorage.googleapis.com
 #216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
 #216.58.221.48	gweb-letour.storage.googleapis.com
-#Googleaps End
+# Googleapis End
 
 220.255.2.153	www.googlehosted.com
 220.255.2.153	base.googlehosted.com
@@ -1274,6 +1297,15 @@
 220.255.2.153	play.google.com
 220.255.2.153	payments.google.com
 220.255.2.153	android.clients.google.com
+220.255.2.153	withgoogle.com
+220.255.2.153	www.withgoogle.com
+220.255.2.153	edutrainingcenter.withgoogle.com
+220.255.2.153	earthview.withgoogle.com
+220.255.2.153	lightsaber.withgoogle.com
+220.255.2.153	britishmuseum.withgoogle.com
+220.255.2.153	beyondthemap.withgoogle.com
+220.255.2.153	analyticsacademy.withgoogle.com
+220.255.2.153	spellup.withgoogle.com
 
 # Googleusercontent Start
 220.255.2.153	www.googleusercontent.com
@@ -2542,6 +2574,7 @@
 220.255.2.153	chromoting-host.talkgadget.google.com
 220.255.2.153	chromoting-client.talkgadget.google.com
 220.255.2.153	remoting-pa.googleapis.com
+220.255.2.153	clientmetrics-pa.googleapis.com
 220.255.2.153	contacts.google.com
 220.255.2.153	youtube.com
 220.255.2.153	www.youtube.com
@@ -2573,6 +2606,7 @@
 220.255.2.153	i2.ytimg.com
 220.255.2.153	i3.ytimg.com
 220.255.2.153	i4.ytimg.com
+220.255.2.153	i9.ytimg.com
 220.255.2.153	s.ytimg.com
 220.255.2.153	manifest.googlevideo.com
 64.233.162.83	onetoday.google.com
@@ -3654,7 +3688,7 @@
 
 # Wikipedia Start
 198.35.26.96	zh.wikipedia.org
-198.35.26.97	zh.m.wikipedia.org
+198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
 
 # WordPress Start
@@ -3772,10 +3806,11 @@
 106.10.138.240	us.yahoo.com
 183.177.81.75	www.flickr.com
 106.10.138.240	www.yahoo.com
-98.138.47.63	y.analytics.yahoo.com
 98.138.253.109	yahoo.com
 77.238.184.150	ying.com
 183.177.81.75	downloadr.flickr.com
+50.18.192.250	duckduckgo-owned-server.yahoo.net
+116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
 
 # Travis CI fastly CDN Start
@@ -3783,7 +3818,7 @@
 # Travis CI fastly CDN End
 
 # Github start
-192.30.253.112	gist.github.com
+192.30.253.113	gist.github.com
 # Github end
 
 #TensorFlow start
@@ -3791,7 +3826,7 @@
 #TensorFlow end
 
 # W3schools Start
-68.232.44.251	w3schools.com
+66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
 
